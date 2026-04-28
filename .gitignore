@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+.DS_Store
+# Optional: exclude the data file if it gets too large
+# data.csv
