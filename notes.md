@@ -4,7 +4,7 @@
 2 fetch data from the internet - allows code to send a message to a server and ask for information.
 in project -> 2 pull *JSON* data from the 3 APIs and download the raw HTML code from the 3 scraped websites.
 
-## **beautifulsoup4**
+## **beautifulsoup4** or **re**
 2 extract specific data from messy HTMLs.
 turns the HTML into a searchable tree.
 in project -> 2 find every <div> with the class *course-title* and return the text inside it.
