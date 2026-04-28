@@ -4,6 +4,9 @@
 2 fetch data from the internet - allows code to send a message to a server and ask for information.
 in project -> 2 pull *JSON* data from the 3 APIs and download the raw HTML code from the 3 scraped websites.
 
+response.status_code == **200** # 200 means success. anything else is an error.
+
+
 ## **beautifulsoup4** or **re**
 2 extract specific data from messy HTMLs.
 turns the HTML into a searchable tree.
