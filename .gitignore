@@ -4,4 +4,4 @@ __pycache__/
 env/
 .DS_Store
 # Optional: exclude the data file if it gets too large
-# data.csv
+data.csv
